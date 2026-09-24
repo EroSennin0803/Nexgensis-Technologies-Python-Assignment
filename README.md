@@ -14,4 +14,4 @@ A Python-based logistics simulator that processes delivery data, assigns package
 2. Verify `data.json` is in the same directory as the script.
 3. Run the simulation:
    ```bash
-   python main.py
+   a.py
